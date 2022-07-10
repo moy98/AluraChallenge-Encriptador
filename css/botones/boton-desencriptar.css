@@ -1,0 +1,17 @@
+.boton__desencriptar{
+    
+    background: transparent ;
+    border: 1px solid #0A3871;
+    border-radius: 1.5rem;
+    color: #0A3871;
+    cursor: pointer;
+    font-family: Montserrat;
+    font-size: 1rem;
+    margin-right: 1.5rem;
+    transition: 0.5s all;
+    width: 40%;
+    
+}
+.boton__desencriptar:hover{
+    transform: scale(0.98);
+}

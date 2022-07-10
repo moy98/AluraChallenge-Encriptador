@@ -1,0 +1,24 @@
+.salida__texto{
+    
+    background: transparent;
+    background-image: url(../../Imagenes/Muñeco.svg),url(../../Imagenes/Frame\ 5.png);
+    background-position: center 7rem, center 27rem ;
+    background-repeat: no-repeat;
+    border: none;
+    color: #0A3871;
+    flex-grow: 1;
+    font-family: Montserrat;
+    font-size: 1rem;
+    height: 44rem;
+    resize: none;
+    width: 100%;
+    
+}
+@media only screen and (max-width: 700px){
+    .salida__texto{
+        
+        background: transparent;
+        background-image: none;
+        height: 20rem;
+    }
+}

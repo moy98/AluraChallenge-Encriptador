@@ -1,0 +1,26 @@
+.entrada__texto{
+
+    background: transparent;
+    border: none;
+    border-radius: 10px;
+    color: #0A3871;
+    font-family: Montserrat;
+    font-size: 1.5rem;
+    height: 41rem;
+    padding: 1rem;
+    resize: none;
+    width: 80%;
+    
+}
+.entrada__texto::placeholder{
+    color: #0A3871;
+    font-family: Montserrat;
+    font-size: 1.5rem;
+    
+}
+
+@media only screen and (max-width: 700px){
+    .entrada__texto{
+        height: 24rem;
+    }
+}

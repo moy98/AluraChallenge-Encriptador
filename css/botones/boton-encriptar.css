@@ -1,0 +1,17 @@
+.boton__encriptar{
+
+    background: #0A3871 ;
+    border-radius: 1.5rem;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: Montserrat;
+    font-size: 1rem;
+    margin-right: 1.5rem;
+    transition: 0.5s all;
+    width: 40%
+    
+}
+.boton__encriptar:hover{
+    transform: scale(0.98);
+}
