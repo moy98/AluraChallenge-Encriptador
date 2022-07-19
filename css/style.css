@@ -1,4 +1,10 @@
 body{
     background: #F3F5FC;
 }
-
+.rodapie{
+    font-family: Montserrat;
+    text-align: center;
+    background-color: #0A3871;
+    color: #F3F5FC;
+    padding: 12px 0 5px 0;
+}
